@@ -1,5 +1,7 @@
 # memcached-win
 memcached,windows
+
+
 1.安装cygwin64
 http://www.cygwin.com/
 安装make，gcc-g++，perl，mingw-gcc-g++等工具
