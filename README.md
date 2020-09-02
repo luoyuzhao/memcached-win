@@ -1,5 +1,5 @@
 # memcached-win
-memcached,windows
+memcached on windows
 
 
 1.安装cygwin64
