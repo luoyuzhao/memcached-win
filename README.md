@@ -56,7 +56,10 @@ make && make install
 
 复制cygwin64安装目录bin下的cygwin1.dll到memchached/bin中
 
-复制libevent/bin下全部文件(cygevent-2-1-7.dll,cygevent_pthreads-2-1-7.dll,cygevent_openssl-2-1-7.dll,cygevent_extra-2-1-7.dll,cygevent_core-2-1-7.dll)
+复制libevent/bin下全部文件
+
+(cygevent-2-1-7.dll,cygevent_pthreads-2-1-7.dll,cygevent_openssl-2-1-7.dll,cygevent_extra-2-1-7.dll,cygevent_core-2-1-7.dll)
+
 至memchached/bin中
 
 done!
